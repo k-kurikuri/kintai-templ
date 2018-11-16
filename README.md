@@ -16,7 +16,7 @@ $ ./kintai-templ.sh #copy to clipboard
 
 ```
 [出退勤]
-11/07(水) 11:50 - xx:xx
+11/07(水) 11:50 - xx:xx (休憩1h)
 ```
 
 ## Lisencea
