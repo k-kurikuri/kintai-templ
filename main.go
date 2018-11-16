@@ -24,7 +24,7 @@ func main()  {
 // printContent
 func printContent(t time.Time)  {
 	weeks := []string{"日", "月", "火", "水", "木", "金", "土"}
-	strFormat := `%02d/%02d(%s) %02d:%02d - xx:xx`
+	strFormat := `%02d/%02d(%s) %02d:%02d - xx:xx (休憩1h)`
 
 	content := fmt.Sprintf(strFormat, int(t.Month()),t.Day(),weeks[int(t.Weekday())], t.Hour(), t.Minute())
 
