@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./kintai-templ | pbcopy
+go run main.go | pbcopy
