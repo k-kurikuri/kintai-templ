@@ -19,5 +19,5 @@ $ ./kintai-templ.sh #copy to clipboard
 11/07(水) 11:50 - xx:xx (休憩1h)
 ```
 
-## Lisencea
+## Lisence
 MIT
